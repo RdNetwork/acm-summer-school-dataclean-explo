@@ -1,6 +1,6 @@
-#ACM Europe Summer School 2017 - Data cleaning lab
+# ACM Europe Summer School 2017 - Data cleaning lab
 
-##Process
+## Process
 All merging and filtering was performed following the provided guidelines. 
 To the "open" guidelines requiring us to think more about it ourselves, the following operations were performed
 
@@ -8,7 +8,7 @@ To the "open" guidelines requiring us to think more about it ourselves, the foll
 - When clustering car color values, the decision was taken to keep as many simple values as possible, i.e. with the lowest proportion of "subjective" colors such as "dark/light/bright" adjectives. The groups are color codes with 5 characters (or less if the full color name is shorter than that).
 Of course this solution is not perfect, since the color codes are sometimes very short and can  get very ambiguous; the most typical case here is "GRE", which can mean both "Grey" or "Green" or "BL" for "Blue" or "Black". These cases weren't resolved.
 
-##Deliverable tasks
+## Deliverable tasks
 
 Some tasks were expected specifically for the deliverable:
 
